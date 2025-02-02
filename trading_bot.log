@@ -1,0 +1,25 @@
+2025-02-03 00:27:10,218 [INFO] Bot configured for DOGS/USDT trading.
+2025-02-03 00:27:40,278 [INFO] 🚀 Starting the DOGS/USDT trading bot...
+2025-02-03 00:27:40,790 [INFO] 💰 Available Balance - USDT: 2.946139720854, DOGS: 46852.08
+2025-02-03 00:27:40,791 [INFO] Initial balance: USDT=2.946139720854, DOGS=46852.08
+2025-02-03 00:27:40,981 [INFO] Current price of DOGS/USDT: 0.0002033
+2025-02-03 00:27:40,981 [INFO] Waiting for price to reach your buy threshold of 0.0002035.
+2025-02-03 00:28:41,176 [INFO] Current price of DOGS/USDT: 0.0002045
+2025-02-03 00:28:41,177 [INFO] Price 0.0002045 is at or above your buy threshold 0.0002035. Attempting to buy.
+2025-02-03 00:28:41,671 [INFO] 💰 Available Balance - USDT: 2.946139720854, DOGS: 46852.08
+2025-02-03 00:28:41,884 [INFO] ✅ Placed buy limit order for 5867.970660 units of DOGS/USDT at 0.0002045.
+2025-02-03 00:28:41,884 [INFO] Bought 5867.970660 DOGS at 0.0002045. Position: {'entry_price': 0.0002045, 'quantity': 5867.970660146699}
+2025-02-03 00:29:42,086 [INFO] Current price of DOGS/USDT: 0.000206
+2025-02-03 00:29:42,086 [INFO] Holding DOGS. Waiting for price to drop to your sell threshold of 0.000203.
+2025-02-03 00:30:42,296 [INFO] Current price of DOGS/USDT: 0.0002063
+2025-02-03 00:30:42,296 [INFO] Holding DOGS. Waiting for price to drop to your sell threshold of 0.000203.
+2025-02-03 00:31:42,473 [INFO] Current price of DOGS/USDT: 0.0002086
+2025-02-03 00:31:42,473 [INFO] Holding DOGS. Waiting for price to drop to your sell threshold of 0.000203.
+2025-02-03 00:32:42,658 [INFO] Current price of DOGS/USDT: 0.0002099
+2025-02-03 00:32:42,658 [INFO] Holding DOGS. Waiting for price to drop to your sell threshold of 0.000203.
+2025-02-03 00:33:42,848 [INFO] Current price of DOGS/USDT: 0.0002099
+2025-02-03 00:33:42,848 [INFO] Holding DOGS. Waiting for price to drop to your sell threshold of 0.000203.
+2025-02-03 00:34:43,074 [INFO] Current price of DOGS/USDT: 0.0002105
+2025-02-03 00:34:43,074 [INFO] Holding DOGS. Waiting for price to drop to your sell threshold of 0.000203.
+2025-02-03 00:35:43,266 [INFO] Current price of DOGS/USDT: 0.0002096
+2025-02-03 00:35:43,266 [INFO] Holding DOGS. Waiting for price to drop to your sell threshold of 0.000203.
