@@ -1,4 +1,4 @@
- DOGS/USDT Trading Bot
+## DOGS/USDT Trading Bot
 
 This is a simple trading bot for DOGS/USDT that repeatedly buys and sells based on user-defined thresholds. The bot:
 
