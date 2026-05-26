@@ -64,4 +64,4 @@ Before running the bot, make sure to update the following variables in the code:
 
 - **Profit and Risk:** This bot does not guarantee profits. It’s a simple price-based trading strategy, and you should fully understand the risks before using it.
 - **API Permissions:** Ensure your API key has the necessary permissions for reading balances and placing trades.
-<!-- updated: 2026-02-22-04 -->
+<!-- updated: 2026-05-26-04 -->
